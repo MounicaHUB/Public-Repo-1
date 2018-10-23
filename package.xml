@@ -2,10 +2,12 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>41.0</version>
     <types>
+        <members>Lead.LeadSource</members>
         <members>X23object__c.X23field__c</members>
         <name>CustomField</name>
     </types>
     <types>
+        <members>Lead</members>
         <members>X23object__c</members>
         <name>CustomObject</name>
     </types>
