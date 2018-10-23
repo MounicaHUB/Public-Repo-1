@@ -9,6 +9,7 @@
     </types>
     <types>
         <members>AC12__c.AccountNumber__c</members>
+        <members>AC12__c.AutorabitExtId__c</members>
         <members>AC12__c.Hours_Worked_c__c</members>
         <members>AC12__c.Phone_number__c</members>
         <name>CustomField</name>
