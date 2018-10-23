@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>43.0</version>
+    <version>44.0</version>
     <types>
         <members>A12</members>
         <members>NewClass</members>
         <members>RT12</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AC12__c.AccountNumber__c</members>
+        <members>AC12__c.AutorabitExtId__c</members>
+        <members>AC12__c.Hours_Worked_c__c</members>
+        <members>AC12__c.Phone_number__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>AC12__c</members>
+        <name>CustomObject</name>
     </types>
 </Package>
