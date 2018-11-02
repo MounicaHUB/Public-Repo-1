@@ -3,6 +3,8 @@
     <version>44.0</version>
     <types>
         <members>A12</members>
+        <members>Comparator__ApexPagesComparisonContentTest</members>
+        <members>Comparator__AppComparisonBean</members>
         <members>NewClass</members>
         <members>RT12</members>
         <name>ApexClass</name>
