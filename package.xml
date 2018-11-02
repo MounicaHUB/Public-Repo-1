@@ -13,6 +13,17 @@
         <members>AC12__c.AccountNumber__c</members>
         <members>AC12__c.Hours_Worked_c__c</members>
         <members>AC12__c.Phone_number__c</members>
+        <members>Account.Active__c</members>
+        <members>Account.CustomerPriority__c</members>
+        <members>Account.NumberofLocations__c</members>
+        <members>Account.SLAExpirationDate__c</members>
+        <members>Account.SLASerialNumber__c</members>
+        <members>Account.SLA__c</members>
+        <members>Account.UpsellOpportunity__c</members>
+        <members>Case.EngineeringReqNumber__c</members>
+        <members>Case.PotentialLiability__c</members>
+        <members>Case.Product__c</members>
+        <members>Case.SLAViolation__c</members>
         <name>CustomField</name>
     </types>
     <types>
